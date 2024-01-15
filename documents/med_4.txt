@@ -1,0 +1,76 @@
+a medical specialty is a branch of medical practice that is focused on a defined group of patients, diseases, skills, or philosophy. examples include those branches of medicine that deal exclusively with children (paediatrics), cancer (oncology), laboratory medicine (pathology), or primary care (family medicine). after completing medical school or other basic training, physicians or surgeons and other clinicians usually further their medical education in a specific specialty of medicine by completing a multiple-year residency to become a specialist.
+
+history of medical specialization
+to a certain extent, medical practitioners have long been specialized. according to galen, specialization was common among roman physicians. the particular system of modern medical specialties evolved gradually during the 19th century. informal social recognition of medical specialization evolved before the formal legal system. the particular subdivision of the practice of medicine into various specialties varies from country to country, and is somewhat arbitrary.
+
+classification of medical specialization
+medical specialties can be classified along several axes. these are:
+
+surgical or internal medicine
+age range of patients
+diagnostic or therapeutic
+organ-based or technique-basedthroughout history, the most important has been the division into surgical and internal medicine specialties. the surgical specialties are those in which an important part of diagnosis and treatment is achieved through major surgical techniques. the internal medicine specialties are the specialties in which the main diagnosis and treatment is never major surgery. in some countries, anesthesiology is classified as a surgical discipline, since it is vital in the surgical process, though anesthesiologists never perform major surgery themselves.
+many specialties are organ-based. many symptoms and diseases come from a particular organ. others are based mainly around a set of techniques, such as radiology, which was originally based around x-rays.
+the age range of patients seen by any given specialist can be quite variable. paediatricians handle most complaints and diseases in children that do not require surgery, and there are several subspecialties (formally or informally) in paediatrics that mimic the organ-based specialties in adults. paediatric surgery may or may not be a separate specialty that handles some kinds of surgical complaints in children.
+a further subdivision is the diagnostic versus therapeutic specialties. while the diagnostic process is of great importance in all specialties, some specialists perform mainly or only diagnostic examinations, such as pathology, clinical neurophysiology, and radiology. this line is becoming somewhat blurred with interventional radiology, an evolving field that uses image expertise to perform minimally invasive procedures.
+
+specialties that are common worldwide
+list of specialties recognized in the european union and european economic area
+the european union publishes a list of specialties recognized in the european union, and by extension, the european economic area. there is substantial overlap between some of the specialties and it is likely that for example "clinical radiology" and "radiology" refer to a large degree to the same pattern of practice across europe.
+
+list of north american medical specialties and others
+in this table, as in many healthcare arenas, medical specialties are organized into the following groups:
+
+surgical specialties focus on manually operative and instrumental techniques to treat disease.
+medical specialties that focus on the diagnosis and non-surgical treatment of disease.
+diagnostic specialties focus more purely on diagnosis of disorders.
+
+salaries
+according to the 2022 medscape physician compensation report, physicians on average earn $339k annually. primary care physicians earn $260k annually while specialists earned $368k annually.the table below details the average range of salaries for physicians in the us of medical specialties:
+
+specialties by country
+australia and new zealand
+there are 15 recognised specialty medical colleges in australia. the majority of these are australasian colleges and therefore also oversee new zealand specialist doctors. these colleges are:
+
+in addition, the royal australasian college of dental surgeons supervises training of specialist medical practitioners specializing in oral and maxillofacial surgery in addition to its role in the training of dentists. there are approximately 260 faciomaxillary surgeons in australia.the royal new zealand college of general practitioners is a distinct body from the australian royal australian college of general practitioners. there are approximately 5100 members of the rnzcgp.
+within some of the larger colleges, there are sub-faculties, such as: australasian faculty of rehabilitation medicine archived 2014-12-11 at the wayback machine within the royal australasian college of physicians
+there are some collegiate bodies in australia that are not officially recognised as specialities by the australian medical council but have a college structure for members, such as: australasian college of physical medicine
+there are some collegiate bodies in australia of allied health non-medical practitioners with specialisation. they are not recognised as medical specialists, but can be treated as such by private health insurers, such as: australasian college of podiatric surgeons
+
+canada
+specialty training in canada is overseen by the royal college of physicians and surgeons of canada and the college of family physicians of canada. for specialists working in the province of quebec, the collège des médecins du québec also oversees the process.
+
+germany
+in germany these doctors use the term facharzt.
+
+india
+specialty training in india is overseen by the medical council of india, responsible for recognition of post graduate training and by the national board of examinations. education of ayurveda in overseen by central council of indian medicine (ccim), the council conducts ug and pg courses all over india, while central council of homoeopathy does the same in the field of homeopathy.
+
+sweden
+in sweden, a medical license is required before commencing specialty training. those graduating from swedish medical schools are first required to do a rotational internship of about 1.5 to 2 years in various specialties before attaining a medical license. the specialist training lasts 5 years.
+
+united states
+there are three agencies or organizations in the united states that collectively oversee physician board certification of md and do physicians in the united states in the 26 approved medical specialties recognized in the country. these organizations are the american board of medical specialties (abms) and the american medical association (ama); the american osteopathic association bureau of osteopathic specialists (aoabos) and the american osteopathic association; the american board of physician specialties (abps) and the american association of physician specialists (aaps). each of these agencies and their associated national medical organization functions as its various specialty academies, colleges and societies.
+
+all boards of certification now require that medical practitioners demonstrate, by examination, continuing mastery of the core knowledge and skills for a chosen specialty. recertification varies by particular specialty between every seven and every ten years.
+in the united states there are hierarchies of medical specialties in the cities of a region. small towns and cities have primary care, middle sized cities offer secondary care, and metropolitan cities have tertiary care. income, size of population, population demographics, distance to the doctor, all influence the numbers and kinds of specialists and physicians located in a city.
+
+demography
+a population's income level determines whether sufficient physicians can practice in an area and whether public subsidy is needed to maintain the health of the population. developing countries and poor areas usually have shortages of physicians and specialties, and those in practice usually locate in larger cities. for some underlying theory regarding physician location, see central place theory.the proportion of men and women in different medical specialties varies greatly. such sex segregation is largely due to differential application.
+
+satisfaction and burnout
+a survey of physicians in the united states came to the result that dermatologists are most satisfied with their choice of specialty followed by radiologists, oncologists, plastic surgeons, and gastroenterologists. in contrast, primary care physicians were the least satisfied, followed by nephrologists, obstetricians/gynecologists, and pulmonologists. surveys have also revealed high levels of depression among medical students (25 - 30%) as well as among physicians in training (22 - 43%), which for many specialties, continue into regular practice. a uk survey conducted of cancer-related specialties in 1994 and 2002 found higher job satisfaction in those specialties with more patient contact. rates of burnout also varied by specialty.
+
+see also
+branches of medicine
+interdisciplinary sub-specialties of medicine, including
+occupational medicine – branch of clinical medicine that provides health advice to organizations and individuals concerning work-related health and safety issues and standards. see occupational safety and health.
+disaster medicine – branch of medicine that provides healthcare services to disaster survivors; guides medically related disaster preparation, disaster planning, disaster response and disaster recovery throughout the disaster life cycle and serves as a liaison between and partner to the medical contingency planner, the emergency management professional, the incident command system, government and policy makers.
+preventive medicine – part of medicine engaged with preventing disease rather than curing it. it can be contrasted not only with curative medicine, but also with public health methods (which work at the level of population health rather than individual health).
+medical genetics – the application of genetics to medicine. medical genetics is a broad and varied field. it encompasses many different individual fields, including clinical genetics, biochemical genetics, cytogenetics, molecular genetics, the genetics of common diseases (such as neural tube defects), and genetic counseling.
+specialty registrar
+federation of national specialty societies of canada
+society of general internal medicine
+
+
+== references ==

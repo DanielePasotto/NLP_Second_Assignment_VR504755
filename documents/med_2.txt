@@ -1,0 +1,68 @@
+the california medical assistance program (medi-cal or medical) is the california implementation of the federal medicaid program serving low-income individuals, including families, seniors, persons with disabilities, children in foster care, pregnant women, and childless adults with incomes below 138% of federal poverty level. benefits include ambulatory patient services, emergency services, hospitalization, maternity and newborn care, mental health and substance use disorder treatment, dental (denti-cal), vision, and long-term care and support. medi-cal was created in 1965 by the california medical assistance program a few months after the national legislation was passed. approximately 15.28 million people were enrolled in medi-cal as of september 2022, or about 40% of california's population; in most counties, more than half of eligible residents were enrolled as of 2020.
+
+eligibility
+medi-cal provides health coverage for people with low income and limited ability to pay for health coverage, including the aged, blind, disabled, young adults and children, pregnant women, persons in a skilled nursing or intermediate care home, and persons in the breast and cervical cancer treatment program (bcctp). people receiving federally funded cash assistance programs, such as calworks (a state implementation of the federal temporary assistance for needy families (tanf) program), the state supplementation program (ssp) (a state supplement to the federal supplemental security income (ssi) program), foster care, adoption assistance, certain refugee assistance programs, or in-home supportive services (ihss) are also eligible.as a means-tested program, medi-cal imposes asset limits on certain prospective enrollees. medi-cal individuals who receive long-term supportive services or who enroll in medi-cal through certain disabilities are subject to asset tests. this limit depends on the number of individuals being considered for coverage; for one enrollee, this limit is $2,000, while for two enrollees, the limit is $3,000. each additional individual being considered results in an additional $150 of permitted assets, up to a total of ten individuals covered. if applicants possess property whose total value exceeds the allowed amount, they are required to reduce ("sell down") their assets through activities such as purchasing clothes, purchasing home furnishings, paying medical bills, paying a home mortgage, paying home loans, and paying off other debts.beginning in 2014 under the patient protection and affordable care act (ppaca), those with family incomes up to 138% of the federal poverty level became eligible for medi-cal (pursuant to 42 u.s.c. § 1396a(a)(10)(a)(i)(viii)), and individuals with higher incomes and some small businesses may choose a plan in covered california, california's health insurance marketplace, with potential government subsidies. medi-cal has open enrollment year-round.
+
+immigration status
+lawful permanent residents (green card holders) are eligible for full-scope medi-cal in california regardless of their date of entry if they meet all other eligibility requirements, even if they have been in the united states for less than 5 years. nonimmigrants and undocumented immigrants are not eligible for full-scope medi-cal, but if they meet all eligibility requirements other than immigration status, they can get restricted-scope medi-cal limited to emergency and pregnancy-related services. recently, medi-cal has expanded full-scope benefits for individuals without immigration status. young adult expansion or yae now allows individual ages 19–26 full-scope benefits regardless of immigration status. older adult expansion or oae now allows individuals 50 and over full-scope benefits regardless of immigration status.
+
+benefits
+medi-cal health benefits include ambulatory patient services, emergency services, hospitalization, maternity and newborn care, mental health and substance use disorder treatment, dental (denti-cal), vision, and long-term care and supports. california is one of a few us states that provide medicaid dental benefits to adults.a patchwork of supplemental programs has grown up to fill in some of the gaps, including federally qualified health centers (fqhc), a designation that refers to hundreds of health clinics and systems that operate in underserved, low-income and uninsured communities.
+
+administration
+medi-cal fee for service
+as of december 2022, 2.2 million people were enrolled in medi-cal fee-for-service, representing about 14.5% of all enrollees. in the fee-for-service arrangement, health care providers submit claims to the medi-cal program for services rendered.
+
+medi-cal managed care
+most beneficiaries receive medi-cal benefits from contracted medicaid managed care organizations (mcos). as of january 2018, 10.8 million people were enrolled in a medi-cal managed care plan, representing about 81% of all enrollees.california has several models of managed care which are designated at the county level:
+a county organized health system (cohs) model, with one health plan per county,
+a "two plan model" with one community health plan and one commercial health plan in the county,
+a geographic managed care model with multiple plans per county,
+a regional managed care model with 1-2 commercial health plans in many counties,
+and unique one-county models in san benito, imperial counties and the bi-county plan "cencal health" in san luís obispo and santa barbara.in denti-cal, the majority of beneficiaries are covered through fee-for-service arrangements, where the state pays dentists directly for services, instead of the managed care model. however, more than 879,000 denti-cal enrollees do receive dental care through managed care plans started as experimental alternatives in the 1990s: in los angeles county where managed care plans are optional for beneficiaries, and in sacramento county where they are mandatory. eleven counties had no denti-cal providers or no providers willing to accept new child patients covered by denti-cal: del norte, tehama, yuba, sierra, nevada, amador, calaveras, alpine, mariposa, mono and inyo counties. delta dental, operating in the same building as dhcs' denti-cal division, enrolls dentists into dentical, processes claims by dentists, pays dentists and authorizes treatments, and also handles customer service operations and outreach.
+
+bridge to reform waiver
+in 2011, cms approved a section 1115 medicaid waiver called bridge to reform. the program included an expansion of the patient-centered medical home primary care approach, an expansion of coverage with the low income health program (lihp), and incentive pay-for-performance to hospitals via the delivery system reform incentive pool (dsrip). it also made enrollment in managed care plans (as opposed to fee-for-service programs) mandatory for people with disabilities with the intention of improving care coordination and reducing costs. the dsrip program showed improvements in quality of care and population health, with less improvement in cost of care.renewal of the waiver in 2015 extended the program to 2020 in an initiative called medi-cal 2020, with additional programs including additional alternative payment systems, the dental transformation initiative, and the whole person care program focused on high-risk, high-utilizing recipients. in the negotiation with cms, several proposals were dropped.
+
+contractual requirements
+medi-cal enforces requirements on mcos with contracts, with boilerplate versions posted online; these contracts the primary way that the state affects the operations, quality, and coverage of managed care plans. in 2005, the california health care foundation recommend various steps to improve the plans, which resulted in some changes to the contracts.
+
+government agencies
+medi-cal is jointly administered by the centers for medicare and medicaid services (cms) and the california department of health care services (dhcs), while the county welfare department in each of the 58 counties is responsible for local administration of the medi-cal program. c4yourself and calwin are statewide online application systems that allows you to apply for benefits.
+
+law
+federal law mostly consists of the social security amendments of 1965 which added title xix to the social security act (42 u.s.c. § 1396 et seq.), and related california law mostly consists of california welfare and institutions code (wic) division 9, part 3, chapter 7 (wic § 14000 et seq.). federal regulations are mostly found in code of federal regulations (cfr) title 42, chapter iv, subchapter c (42 cfr 430 et seq.); while california's regulations are contained in california code of regulations (ccr) title 22, division 3 (22 ccr § 50005).
+
+costs
+medi-cal costs are estimated at $73.9 billion ($16.9 billion in state funds) in 2014–15. for comparison, the entire california state budget in 2014-2015 is $156 billion, of which about $108 billion was general funds (not allocated for special expenditures, such as bonds).
+
+related programs
+partnership for long-term care
+the long-term care partnership program is a public-private partnership between states and private insurance companies, designed to reduce medicaid expenditures by delaying or eliminating the need for some people to rely on medicaid to pay for long-term care services. to encourage the purchase of private partnership policies, long-term care insurance policyholders are allowed to protect some or all of their assets from medicaid spend-down requirements during the eligibility determination process, but they still must meet income requirements. the california partnership for long-term care program links medi-cal and the in-home supportive services program, i.e., private long-term care insurance and health care service plan contracts that cover long-term care for aged, blind, or disabled persons.
+
+covered california
+covered california is the health insurance marketplace in california, the state's implementation of the american health benefit exchange provisions of the patient protection and affordable care act.
+
+indigent health programs
+since 1933, california law has required counties to provide relief to the poor, including health care services and general assistance. county indigent medical programs can be categorized as california medical service program (cmsp) and medically indigent service program (misp) counties. there are 34 cmsp counties and 24 misp counties. the cmsp county programs are largely managed by the state, whereas misp counties manage their own programs with their own rules and regulations. many patients from both the cmsp and misp county programs transitioned to medi-cal when the patient protection and affordable care act took effect in 2014.
+
+quality of care metrics
+medi-cal reports quality metrics, broadly similar to the hedis metrics from the ncqa.
+in 2017, it reported on 13 of the 20 frequently reported from the cms medicaid/chip child core set and 15 of 19 frequently reported from the cms medicaid adult core set.
+
+see also
+healthcare in california
+welfare in california
+local government in california
+health care districts in california
+
+references
+external links
+official website
+benefitscal.org (to apply) from the county welfare directors association
+c4yourself system from c-iv
+calwin system from wcds
+yourbenefitsnow! system for los angeles county
+california medical assistance program in the california code of regulations
+medicaid state plan information for california
+state waivers for medicaid program in california
