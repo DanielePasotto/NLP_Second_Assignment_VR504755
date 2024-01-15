@@ -49,11 +49,13 @@ def generate_summary(sentence_scores, summary_size):
     # Extracting the most important sentences.
     summary_sentences = [sentence[0] for sentence in sorted_sentences[:summary_size]]
 
-    return summary_sentences
+    summaries = " ".join(summary_sentences)
 
-# This function collate the summaries in documents based on the number of steps.
+    return summaries
+
+# This function collate the summaries based on the number of steps.
 def collate_summaries(summaries, num_steps):
-    # Collate a summary until summaries will be smaller than the number of steps.
+    # Collate a summary until its length will be smaller than the number of steps.
     while len(summaries) > num_steps:
         new_summaries = []
 
@@ -89,11 +91,11 @@ def main():
             break
 
         summary_size = input("Insert the size of the summary for each step as a integer: ")
-        while summary_size == "" and summary_size != summary_size.isdigit():
+        while summary_size == "" or not summary_size.isdigit():
             summary_size = input("Insert the size of the summary for each step as a integer: ")
 
         num_steps = input("Insert the number of steps for the summarization process as a integer: ")
-        while num_steps == "" and num_steps != num_steps.isdigit():
+        while num_steps == "" or not num_steps.isdigit():
             num_steps = input("Insert the number of steps for the summarization process as a integer: ")
 
         document_names = input_documents.split(", ")
