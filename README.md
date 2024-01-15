@@ -22,7 +22,10 @@ LAST STEP: the program generate the summary of the summaries recursively until t
 
 The execution time for the *second_assignment.py* depends from the number of documents given in input.
 
+
 ### INPUT EXAMPLES:
 med_1.txt, med_2.txt, other_1.txt
+
 3
+
 2
