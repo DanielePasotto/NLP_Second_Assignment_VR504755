@@ -8,17 +8,16 @@ To run correctly the code it necessary to install the libraries. For this you ca
 ### The project
 For the code part I use python with NLTK library.
 
-For this text classifier I create a personalized corpora divided in two categories: MEDICAL and OTHER.
-For the creation of this corpora I write the code *corpora_creator.ipynb*. This program takes a page from wikipedia, specifying a topic, and transforms it into a file saving it in the right folder (MEDICAL or OTHER).
-In the corpora folder there are 500 MEDICAL files and 500 OTHER files (the topics for the OTHER category are car, artificial intelligence, geography, catholic and videogame).
-The execution time for the *corpora_creator.ipynb* is more or less 5 minutes.
+The functions that define the hierarchical system for summarization of documents are written in the *second_assignment.py* program. This program takes in input a set of N documents, the size of the summary for each step and the number of steps for the summarization process. The documents can be taken from the documents folder. 
 
-The functions that define the text classifier are written in the *first_assignment.ipynb* program. This program creates a list based on the personalized corpora (all text files are mapped with their categories).
-The list is processed for all files: the program tokenizes by word the file and then eliminates all words that are not alphanumeric and all words that are numbers. After that it eliminates stop word, uses the Porter's algorithm for the stemming and the last step is the lemmatization with the WordNet Lemmatizer.
-After this procedure, the program extract the features for the training of the classifier. For the feature extractor, the program takes the first 2000 most frequent words from the corpus. The feature extraxtor simply checks whether each of these words is present in the list's files. With the feature extractor, the program selects the training set and test set that are used respectively for the training of the Naive Bayes classifier and for the check of the accuracy of the classifier. 
+FIRST STEP: create the bag of words from a document constructed by the usual pipeline of elimination of every digit and punctuation characters, stopword elimination, word tokenization, stemming and lemmatization. In this step we take also sentences from the document using the sentence tokenization.
 
-The classifier is ready and now the program waits for an input. The input is an URL of a wikipedia page.
-The program takes the text from the page after a request to wikipedia. This text is processed the same way the list was processed (word tokenization; elimination of symbols, numbers and stop words; stemming and lemmatization). Suddenly, the program takes the first 20 most frequent words from the processed text and uses these words for the feature extraction on the text.
-Finally, the program classifies the wikipedia page, specifying the category (MEDICAL or OTHER)
-These last steps are repeated while the input is not blank.
-The execution time for the *first_assignment.ipynb* is more or less 2 minutes for the training part.
+SECOND STEP: with the sentences obtained from the first step, the program create a dictionary, where for every sentence we assign a score based on its frequency.
+
+THIRD STEP: with the dictionary obtained in the second step, the program sort the score of sentences in a descending order and extract the most important sentences from the dictionary. So now we have generate a summary of the most important sentences with the size of the summary given in input.
+
+FOURTH STEP: with the summary obtained in the third step, the program divides this summary in fragments to create a new summary. This process run until the lenght of the summary will be smaller than the number of steps given in input.
+
+LAST STEP: the program generate the summary of the summaries recursively until the number of steps is exhausted. So the program generate a summary of all documents using the first three steps and then generate a unique summary from the summary of all documents using the fourth step.
+
+The execution time for the *second_assignment.py* depends from the number of documents given in input.
