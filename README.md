@@ -21,3 +21,8 @@ FOURTH STEP: with the summary obtained in the third step, the program divides th
 LAST STEP: the program generate the summary of the summaries recursively until the number of steps is exhausted. So the program generate a summary of all documents using the first three steps and then generate a unique summary from the summary of all documents using the fourth step.
 
 The execution time for the *second_assignment.py* depends from the number of documents given in input.
+
+## INPUT EXAMPLES:
+med_1.txt, med_2.txt, other_1.txt
+3
+2
