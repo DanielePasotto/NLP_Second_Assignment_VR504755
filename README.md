@@ -8,6 +8,8 @@ To run correctly the code it necessary to install the libraries. For this you ca
 ### The project
 For the code part I use python with NLTK library.
 
+I choose the CASE2.
+
 The functions that define the hierarchical system for summarization of documents are written in the *second_assignment.py* program. This program takes in input a set of N documents, the size of the summary for each step and the number of steps for the summarization process. The documents can be taken from the documents folder. 
 
 FIRST STEP: create the bag of words from a document constructed by the usual pipeline of elimination of every digit and punctuation characters, stopword elimination, word tokenization, stemming and lemmatization. In this step we take also sentences from the document using the sentence tokenization.
